@@ -25,7 +25,7 @@ SECRET_KEY = 'ztb9bkc(*2vlk+#p+g492uf2*yptxh!l4l--u5=8ganv7@g^t*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<auroraskin>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'auroraskin.pythonanywhere.com']
 
 
 # Application definition
